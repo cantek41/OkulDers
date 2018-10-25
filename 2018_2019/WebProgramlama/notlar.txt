@@ -1,0 +1,53 @@
+1 Hafta .Hafta hiç birşey yapılmadı, sorumluluk sınavları,Teknofest,
+	Not: toplamda 9 öğrencinin olduğu bir sınıfa ders anlatılmakta
+2 Hafta .WEB TASARIMINDA TEMEL İLKELER, 
+	* Plana göre konu anlatımı
+	* Kendi Tasrımlarını oluşturun temrini yapıldı.
+	* Fiyat çıkarma üzerine örnekler ve tartışma yapıldı.
+	* Web Tasarımında dikkat edilecek husus için araştırma yapıldı
+	  bu araştırma özeti deftere yazıldı ve tartışıldı.
+Kalınan yer-Web sayfası Taslaığı oluşturma
+Ödev: 
+	-İnternette web sitelerini geziniz. Bir web sitesinde kaç farklı sayfa tasarımı var
+	inceleyiniz.
+	-En çok kullanılan ekran (monitör) çözünürlüklerini araştırınız.
+	-7 sayfalık, içerisinde animasyon olan, alışveriş yapılabilen bir çiçekçi sitesi, domain 		ve hosting dahil yaklaşık fiyat çıkarımı ve tasarımını çizin. Tasrımı yaparken teknik 		resim kurallarına dikkat edin.
+3.Hafta
+	Ödev ve geçen haftanın bir tartışması yapıldı. Ödevin 5 kişinin hiç yapmaması, diğer 4 		öğrencininde ödevden sadece 1 soru ve onu da alakasız yapması nedeni ile biraz sıkıntılı 		bir giriş yaptık.
+	* Web Sayfası taslağı nasıl oluşturulur, nelere dikkat edilir.
+	* Temrin:Bir web sayfası tasarlayınız.Sitenin ana sayfasını tasarlayınız.Sayfa çözünürlüğünü ayarlayınız. Sitenin iç sayfasını tasarlayınız. Reklam alanlarını belirleyiniz. Site birden fazla dilden oluĢacaksa hangi dilleri destekleyeceğini belirleyiniz.  Yardım sayfası hazırlayınız.  Site haritası hazırlayınız. (Temrinde te tüm öğrenciler malesef başarısız oldu, söylelinenleri ve istekleri yapmamak için ellerinden gelen çabayı gösteriyorlar, Aslında beceremiyorlar, anlamıyorlar. Yapmamak gibi niyetleri yok, birşey yapmaya çalışıyor ama ben nedersem diyeyim onu dilemiyorlar kafalarına göre davranıyorlar. Onların frekansını nasıl yakalayacağım bilemedim.)
+	* IP URL
+	* Domain Hosting kavramları
+	* Arama motorları
+	* Etkinlik: Arama motorunu etkili kullanma
+	Ödev:Web tasarımı hazırlamak için kullanılan programların hangileri olduğunu
+araştırınız?
+Kalınan Yer: HTML ye giriş
+4.Hafta
+	Ödevi sadece bir öğrenci yapmış. 	
+	* Html etiketlerin tanımı yapıldı
+	* Notepad, Metin düzenleyici, Notepad++, VSCode, Brakets gibi html editörler tanıtıldı
+	* Akıllı telefonla metin düzenleyici ile uygulama yapılabileceği anlatıldı
+	* head body ve ilk html uygulaması yapıldı
+	* listleme, maddelendirme (OL-UL) tanıtıldı
+	* Anlatılan konuların uygulamaları yapıldı. (Örnekler klasöründe uygulamalar mevcut)
+	Ödev:Canlıların hiyerarşisini gösteren ağaç yapıyı Ol-Ul-li etiketlerini kullanarak gösteriniz.(örnekler/4.Hafta/sınfılandırma.png)
+5. Hafta
+	tablolar, html kod yazım usulleri
+	tablo uygulamaları
+	Ödev:HTML modüldeki tablo ödev
+6.Hafta
+	tablo tekrarları, ödev kontrolleri,
+	ödevi yapan bir kişi o da netten bakarak yapmış. kopyala yapıştır usulu.
+	kafalarına göre yapıyorlar(yapamıyorlar) herşeyi, ne dedinrse densin umurlarında değil.
+	Okul sahibi olsam önce ğretmeni sonra öğrencilerin hepsini kovar kilit vururum valla
+	götüm yese istifa edecem ama nerde. bu krizde iş bulmak kolay mı!
+	Kendimden utanıyom artık bunların yüzünden. Ulan boşu boşuna para alıyoz gibi geliyo
+	Neyse öyle ya da böyle geçecek ama CANTEK oğlum kendine başka bişey bul, yoksa bir 	
+	nefeslik dünyada mal gibi olacan..
+
+	
+
+
+
+

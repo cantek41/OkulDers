@@ -1,0 +1,28 @@
+Ödev:Canlıların hiyerarşisini gösteren ağaç yapıyı Ol-Ul-li etiketlerini kullanarak gösteriniz.(örnekler/4.Hafta/sınfılandırma.png)
+
+
+
+damla aydemir: istenilen şekile yakın yapmış
+
+diğerleri birbiriden bakmış, ortak yapamamışlar ve sadece textleri değiştirmiş.
+
+
+Yapmayanlar
+Merve
+Berivan
+
+
+Gelmeyenler
+Gözde
+
+
+Şevval Yazıcı				0
+Damla Aydemir				0
+Emine Yıldız				50
+Esra Güven				0
+Gözde Ay				0
+Merve Çelikdede				0
+Rojin Utanç				0
+Yeşim Yeşil				0
+Berivan Aslan				0
+

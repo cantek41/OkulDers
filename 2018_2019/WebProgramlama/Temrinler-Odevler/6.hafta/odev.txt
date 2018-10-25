@@ -1,0 +1,29 @@
+Ödev:odev.png deki tabloyu yapınız
+
+
+
+damla ve berivan doğru yapmış,
+diğerleri yanlış yapmış.
+
+
+Yapmayanlar
+Esra
+Gözde
+Şevval
+
+
+
+Gelmeyenler
+Yeşim
+
+
+Şevval Yazıcı					0
+Damla Aydemir					90
+Emine Yıldız					40
+Esra Güven					0
+Gözde Ay					0
+Merve Çelikdede					40
+Rojin Utanç					40
+Yeşim Yeşil					0
+Berivan Aslan					70
+

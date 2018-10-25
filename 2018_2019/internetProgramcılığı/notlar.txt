@@ -1,0 +1,5 @@
+3.Hafta
+	internet uygulaması geliştire bilmek için kullanılan diller
+	Python girişi
+4.Hafta 
+	Python console örnekleri
