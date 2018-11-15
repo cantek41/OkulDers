@@ -45,8 +45,29 @@ Kalınan Yer: HTML ye giriş
 	Kendimden utanıyom artık bunların yüzünden. Ulan boşu boşuna para alıyoz gibi geliyo
 	Neyse öyle ya da böyle geçecek ama CANTEK oğlum kendine başka bişey bul, yoksa bir 	
 	nefeslik dünyada mal gibi olacan..
-
+7.Hafta
+	formlar
+	form nesneleri, POST ve GET metodları action
+	form uygulamaları ve modüldeki örnekleri yaptık.
+	5 saatlik Işçi sağlığı ve Güvenliği Eğitimi aldılar.
+8.Hafta
+	tekrar çalışmaları
+9.Hafta
+	CSS giriş
+	dahili ve harici css
+	ID ve Class kavramları
+	malesef dosya isimlendirmelerinde hala sıkıntı çekiyoruz
+	html ve css dosyalarını karıştırıyorlar
+	html ve css ayrımı üzerinde durmak gerekiyor
+	w3school dan exercise ler yapıldı ama anlayana aşk olsun. ben de yıldım ama ne yapacam 	
+	artık bilmiyorum. 
+	Haftaya sınav yapacam ama biri bile geçemez, bir bep li var ona dan daha az şey bekleyip 
+	harf harf yaptırsam bile bişey olacağı yok. Bunların hepsi bepli ama sadece birinin raporu 		var. Umut yok ses yok tepki yok.
 	
+
+
+
+ 
 
 
 
