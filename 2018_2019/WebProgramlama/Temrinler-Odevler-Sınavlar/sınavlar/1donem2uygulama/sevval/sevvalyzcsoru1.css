@@ -1,0 +1,22 @@
+body{
+}
+#menu ul{
+margin:0;
+padding:0;
+float:left;
+width:400px;
+}
+#menu ul li{
+list-style:none;
+}
+#menu ul li a{
+text-decoration:none;
+display:black;
+}
+#menu ul a:hover{
+color:#666666;
+background-color:gray;
+text-align:right;
+}
+
+

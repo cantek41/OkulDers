@@ -1,0 +1,29 @@
+#container{
+ width:800;
+ height:1000px;
+ background-color:gray;}
+ }
+ #header{
+ width:200px;
+ height:180px;
+ padding:10px;
+ margin:10px;
+ background-color:red;}
+ }
+ .left container{
+ height:180px;
+ width:200px;
+ padding:10px;
+ margin:10px;
+ background-color:#yellow;}
+ float-left;
+ }
+ .right container{
+ height:180px;
+ width:200px;
+ padding:10px;
+ margin:10px;
+ background-color:blue;}
+ float-left;
+ }
+ 

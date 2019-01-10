@@ -1,0 +1,26 @@
+#container{
+width:800 %;
+height:1000px;
+background-color:gray;}
+#header{
+width:950px;
+height:200px;
+padding:10px;
+margin:10px;
+background-color:red;}
+.left_container{
+height:150px;
+width:180px;
+padding:10px;
+margin:10px;
+background-color:yellow;
+}
+.right_container{
+width:500px;
+height:150px;
+padding:10px;
+margin:10px;
+background-color:powderblue;}
+#footer{
+width:950px;
+background-color:;}
