@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial;}
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #008b00;
+  background-color: #008b00;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #008b00;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #008b00;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #008b00;
+  border-top: none;
+}
+</style>
+</head>
+<body>
+
+<h2>TUĞBA ÇELİKDEDE</h2>
+
+
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'Anasayfa')">Anasayfa</button>
+  <button class="tablinks" onclick="openCity(event, 'HakkÄ±mÄ±zda')">HakkÄ±mÄ±zda</button>
+  <button class="tablinks" onclick="openCity(event, 'Servisler')">Servisler</button>
+  <button class="tablinks" onclick="openCity(event, 'Referanslar')">Referanslar</button>
+  <button class="tablinks" onclick="openCity(event, 'Forum')">Forum</button>
+  <button class="tablinks" onclick="openCity(event, 'Ä°letiÅŸim')">Ä°letiÅŸim</button>
+</div>
+
+<div id="Anasayfa" class="tabcontent">
+  <h3>Anasayfa</h3>
+</div>
+
+<div id="Hakkımızda" class="tabcontent">
+  <h3>Hakkımızda</h3>
+</div>
+
+<div id="Servisler" class="tabcontent">
+  <h3>Servisler</h3>
+  </div>
+  <div id="Referanslar" class="tabcontent">
+  <h3>Referanslar</h3>
+  </div>
+  <div id="Forum" class="tabcontent">
+  <h3>Forum</h3>
+  </div>
+  <div id="iletişim" class="tabcontent">
+  <h3>İletişim</h3>
+</div>
+  <img src="intro-post-2.jpg"width="800" height="313">
+  <button>Devam</button>
+  <img src="welcome.jpg"width="284" height="87"><img src="partners.jpg"width="284" height="87"><img src="blog.jpg" width="284" height="87">
+  <div class=text">çiçekler çok güzeller</div><div class="text">güzel çiçeklerrr</div>
+
+<script>
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+
+}
+ </script>
+   
+</body>
+</html>

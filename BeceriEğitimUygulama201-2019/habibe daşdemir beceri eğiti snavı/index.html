@@ -1,0 +1,89 @@
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</style>
+</head>
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">BECERİ EĞİTİM <br>
+      HMTAL</a></br>
+    </div>
+      <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Anasayfa</a></li>
+      <li><a href="#">Hakkımızda</a></li>
+      <li><a href="#">Servisler</a></li>
+      <li><a href="#">Referanslar</a></li>
+      <li><a href="#">Forum</a></li>
+      <li><a href="#">İletişim</a></li>
+      
+      
+    </ul>
+  </div>
+</nav>
+<h2 class="w3-center"></h2>
+
+<div class="w3-content w3-section" style="max-width:50px">
+  <img class="mySlides" src="images/intro-post-2.jpg" style="width:1000%">
+  <img class="mySlides" src="images/intro-post-3.jpg" style="width:1000%">
+  <img class="mySlides" src="images/intro-post-1.jpg" style="width:1000%">
+</div>
+<br>
+<br>
+Roman Hakkında Genel Bilgiler
+
+Roman Hakkında Genel Bilgiler
+
+Bu yazıda Roman türünün temel öge ve kavramları, Romanın yapı unsurları, Romanda anlatıcı tutumu ve metin iletisi, Romanda anlatım biçimleri ve teknikleri hakkında genel bilgi verilmiştir.
+
+Roman, insan ve insanın hayatla mücadelesi üzerine kaleme alınmış kurguya dayalı metinleri ifade eden edebî bir türdür. Çoğunlukla insanların hayatla olan çatışmalarını, iç dünyalarını, insan ilişkilerini, dramatik ya da toplumsal bir olgu olarak yansıtmayı amaçlayan düzyazı türüdür.
+
+Roman, anlatmaya dayalı bir metin türüdür. Anlatmaya dayalı metinler olay çevresinde meydana gelir. Romanda olay; kişiler, yer (çevre), zaman gibi unsurlarla birleştirilerek anlatılır. Bu bakımdan olay örgüsü, yer, zaman ve kişiler romanın temel öğeleridir.
+
+Romanda olayları ve durumları okura ileten bir de “anlatıcı” vardır. Anlatıcı, yazarın anlatımı teslim ettiği kurgusal bir kişiliktir. Okur, yazar yerine onun tarafından seçilmiş anlatıcı ile karşı karşıyadır. Anlatıcının, bakış açısı dediğimiz konumu çerçevesinde olaylar ve durumlar ile karşı karşıya gelir.
+
+Anlatmaya dayalı metinlerin, dolayısıyla romanın en önemli özelliği kurguya dayalı oluşudur. Buradaki olay, yaşanmış olandan, bir başka söyleyişle biyografi, tarih, gezi yazısı, anı gibi insanların hayat serüvenleri üzerine yazılmış olanlardan farklıdır. Romancının hayal gücü, ruhsal yapısı, bilgi birikimi, duygu ve düşünce yoğunluğuyla oluşturulmuş bir dış dünyadır.
+
+</br>
+</br>
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 2000); // Change image every 2 seconds
+}
+</script>
+
+    <div class="container-fluid">
+   </div>
+  <div class="row">
+	         <div class="col-md-12">
+	       <h2>WEB SİTEME HOŞGELDİNİZ</h2>
+	     <img src="welcome.jpg">
+  </div>
+       <div class="col-md-6">
+      <h2>REFERANSLAR</h2>
+		<img src="pertners.jpg">
+	</div>
+    
+    <div class="col-md-6">
+    <h2>YORUMLAR</h2>
+		 <img src="blog.jpg">
+		 </div>
+</body>
+</html>

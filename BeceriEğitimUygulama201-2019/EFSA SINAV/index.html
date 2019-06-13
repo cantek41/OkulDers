@@ -1,0 +1,62 @@
+<html>
+<head>
+
+	<link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+    <script type="css/bootstrap.min.js"></script>
+    <script type="js/popper.mim.js"></script>
+    <script type="js/jquery-3.3.1.min.js"></script>
+</head>
+<body>
+	<nav class="navbar navbar-expand-sm bg-light">
+  <ul class="navbar-nav">
+     <li> <a href="#">anasayfa</a></li>
+     <li> <a  href="#">hakkımızda</a></li>
+     <li> <a  href="#">servisler</a></li>
+     <li> <a  href="#">referanslar</a></li>
+     <li> <a  href="#">ietişim</a></li>
+    </li>
+  </ul>
+</nav>
+<br>
+
+<div class="w3-container">
+  <h2>BECERİ EĞİTİM</h2>
+  
+</div>
+
+<h2 class="w3-center"></h2>
+
+<div class="w3-content w3-display-container">
+  <img  src="images/intro-post-1.jpg" style="width:100%">
+  <img  src="images/intro-post-2.jpg" style="width:100%">
+  <img  src="images/intro-post-3.jpg" style="width:100%">
+ 
+  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+</div>
+
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
+</script>
+<div class="col-md4">
+	<h1>web sayfama hoşgeldiniz</h1>
+	<img src="images/welcome.jpg">
+</body>
+
+

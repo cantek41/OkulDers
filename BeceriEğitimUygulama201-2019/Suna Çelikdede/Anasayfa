@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+  
+  <div class="w3-container w3-teal">
+  </div>
+
+  <img src="welcome.jpg" alt="Car" style="width:100%">
+ 
+  <div class="w3-container">
+    <h1>Web Siteme Hoşgeldiniz</h1>
+  <p>Perpa Trade Center with its location, size, contribution to economy, the number of people inside and social responsibility projects is a one big block of structure integrated with Global World Trade
+  At a place known as “Perşembe Pazarı” in 1986, by discharging this place and to gather this energy in a social center with a high economic potential and to find solutions to merchants issues construction of Perpa was established in 1986. Today Perpa is a modern business center that provides convenience for people around it
+  Istanbul and Turkey’s rising proud Perpa is a massive structure that writes it’s name to the future of our world trade in gold letters. 
+</p>
+  </div>
+
+  <div class="w3-container w3-teal">
+  <p>My footer information</p>
+  </div>
+
+
+</body>
+</html>

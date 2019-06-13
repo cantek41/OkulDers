@@ -1,0 +1,91 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="stilim.css">
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">BECERİ EĞİTİM</a>
+    </div>
+    <ul class="nav navbar-nav">
+     <li class="active"><a href="#">HAKKIMIZDA</a></li>
+      <li><a href="#">SERVİS</a></li>
+      <li><a href="#">REZERVASYON</a></li>
+      <li><a href="#">FORUM</a></li>    
+      <li><a href="#">FORUM</a></li>
+    </ul>
+    <form class="navbar-form navbar-left" action="/action_page.php">
+      <div class="input-group">
+        <input type="text" class="form-control" placeholder="Search" name="search">
+        <div class="input-group-btn">
+          <button class="btn btn-default" type="submit">
+            <i class="glyphicon glyphicon-search"></i>
+          </button>
+        </div>
+      </div>
+    </form>
+  </div>
+</nav>
+<style type="text/css">
+.container1{width:660px;margin:0;padding:0;}
+.folio_block{position:absolute;left:50%;top:50%;margin:-140px 0 0 -395px;}
+.main_view{float:left;position:relative;}
+.window{height:400px;width:800px;-moz-box-shadow:0 0 5px #303030;-webkit-box-shadow:0 0 5px #303030;box-shadow:0 0 5px #303030;border:1px solid #000;margin:0;overflow:hidden;position:relative;}
+.image_reel{position:absolute;top:0;left:0;}
+.image_reel img{float:left;}
+.paging_btrix{position:absolute;bottom:10px;right:-7px;width:178px;height:47px;z-index:100;text-align:center;line-height:40px;background:url(http://4.bp.blogspot.com/_ELUIRQESuk4/TFw-m2eaQlI/AAAAAAAAADg/KQbHMNM6wOQ/s320/paging.png) no-repeat;display:none;}
+.paging_btrix a{text-decoration:none;color:#fff;padding:5px;}
+.paging_btrix a.active{font-weight:700;background:#920000;border:1px solid #610000;-moz-border-radius:3px;-khtml-border-radius:3px;-webkit-border-radius:3px;}
+.paging_btrix a:hover{font-weight:700;}
+</style>
+<div class="container1">
+<div class="main_view">
+<div class="window">
+<div class="image_reel">
+
+<img src="img/k.jpg"  width="800" height=400 /></a>
+<img src="img/k1.jpg"  width="800" height=400 /></a>
+<img src="img/k3.jpg"  width="800" height=400/></a>
+<img src="img/k4.jpg " width="800" height=400 /></a>
+<img src="img/k5.jpg "  width="800" height=400 /></a>
+</div>
+</div>
+<div class="paging_btrix">
+<a href="#" rel="1">1</a>
+<a href="#" rel="2">2</a>
+<a href="#" rel="3">3</a>
+</div>
+</div>
+</div>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){$(".paging_btrix").show();$(".paging_btrix a:first").addClass("active");var imageWidth=$(".window").width();var imageSum=$(".image_reel img").size();var imageReelWidth=imageWidth*imageSum;$(".image_reel").css({'width':imageReelWidth});rotate=function(){var triggerID=$active.attr("rel")-1;var image_reelPosition=triggerID*imageWidth;$(".paging_btrix a").removeClass('active');$active.addClass('active');$(".image_reel").animate({left:-image_reelPosition},500)};rotateSwitch=function(){play=setInterval(function(){$active=$('.paging_btrix a.active').next();if($active.length===0){$active=$('.paging_btrix a:first')}rotate()},
+5000)};rotateSwitch();$(".image_reel a").hover(function(){clearInterval(play)},function(){rotateSwitch()});$(".paging_btrix a").click(function(){$active=$(this);clearInterval(play);rotate();rotateSwitch();return false})});
+</script>
+<br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<td>
+  <td>
+  <img src="img/k4.jpg"  width="300" height=200 /></a>
+  <p>jdvldjnlknjvdjmvlnvknbnbkjnbjnnnnnnnnnnnnnnnnnnn<br>nnnnnnnnnnbslşöööööööloeoprıewpoooooooooooo<br>ooooooooooooooooooooooooooooooooooooooooooo<br>kredsşşşşşşşşşş<br>şşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşş</p>
+   <center><img src="img/partners.jpg"  width="300" height=200 /></a></center>
+    <center><p>jdvldjnlknjvdjmvlnvknbnbkjnbjnnnnnnnnnnnnnnnnnnn<br>nnnnnnnnnnbslşöööööööloeoprıewpoooooooooooo<br>ooooooooooooooooooooooooooooooooooooooooooo<br>kredsşşşşşşşşşş<br>şşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşş</p></center>
+   <img src="img/blog.jpg"  width="300" height=200 /></a>
+   <p>jdvldjnlknjvdjmvlnvknbnbkjnbjnnnnnnnnnnnnnnnnnnn<br>nnnnnnnnnnbslşöööööööloeoprıewpoooooooooooo<br>ooooooooooooooooooooooooooooooooooooooooooo<br>kredsşşşşşşşşşş<br>şşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşşş</p>
+</td>
+</td>
